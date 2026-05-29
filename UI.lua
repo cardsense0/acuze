@@ -320,41 +320,41 @@ do
     do
         local files = {
             ["assets"] = {
-                ["api.lua"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/api.lua") end,
-                ["sparkle.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/sparkle.ogg") end,
-                ["skeet.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/skeet.ogg") end,
-                ["neverlose.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/neverlose.ogg") end,
-                ["break.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/break.ogg") end,
-                ["mc bow.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/mc%20bow.ogg") end,
-                ["primordial.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/primordial.ogg") end,
-                ["rust.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/rust.ogg") end,
-                ["sexy.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/sexy.ogg") end,
-                ["jaydes.png"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/jaydes.png") end,
-                ["1.png"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/1.png") end,
-                ["2.png"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/2.png") end,
-                ["logo.png"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/logo.png") end,
-                ["saturation.png"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/saturation.png") end,
+                ["api.lua"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/api.lua") end,
+                ["sparkle.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/sparkle.ogg") end,
+                ["skeet.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/skeet.ogg") end,
+                ["neverlose.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/neverlose.ogg") end,
+                ["break.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/break.ogg") end,
+                ["mc bow.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/mc%20bow.ogg") end,
+                ["primordial.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/primordial.ogg") end,
+                ["rust.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/rust.ogg") end,
+                ["sexy.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/sexy.ogg") end,
+                ["jaydes.png"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/jaydes.png") end,
+                ["1.png"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/1.png") end,
+                ["2.png"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/2.png") end,
+                ["logo.png"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/logo.png") end,
+                ["saturation.png"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/saturation.png") end,
             },
             ["custom"] = {
-                ["textures.json"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/example.textures") end,
-                ["character.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/character.rbxm") end,
-                ["pinksky.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/pinksky.rbxm") end,
-                ["crunch.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/acuze.ogg") end,
-                ["scar.ogg"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/scar.ogg") end,
-                ["x hit.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/x%20hit.rbxm") end,
-                ["blossom aura.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/blossom%20aura.rbxm") end,
-                ["spam.json"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/spam.json") end,
+                ["textures.json"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/example.textures") end,
+                ["character.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/character.rbxm") end,
+                ["pinksky.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/pinksky.rbxm") end,
+                ["crunch.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/acuze.ogg") end,
+                ["scar.ogg"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/scar.ogg") end,
+                ["x hit.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/x%20hit.rbxm") end,
+                ["blossom aura.rbxm"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/blossom%20aura.rbxm") end,
+                ["spam.json"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/spam.json") end,
             },
             ["themes"] = {
-                ["default.th"] = function() return game:HttpGet("https://github.com/xander-999/acuze/raw/refs/heads/main/default.th") end,
+                ["default.th"] = function() return game:HttpGet("https://github.com/xander-999/juju/raw/refs/heads/main/default.th") end,
             },
             ["addons"] = {},
             ["configs"] = {},
             ["data.dat"] = [[{"notifications":true,"theme":"","favorites":[]}]]
         }
 
-        if not isfolder("acuze recode") then
-            makefolder("acuze recode")
+        if not isfolder("acuze_v2") then
+            makefolder("acuze_v2")
         end
 
         local recursive_check
@@ -375,14 +375,14 @@ do
             end
         end
 
-        recursive_check("acuze recode/", files)
+        recursive_check("acuze_v2/", files)
     end
 
     -- > ( custom drawing )
 
     local drawing = Drawing
     LPH_NO_VIRTUALIZE(function()
-        drawing = _G.FORCE_REAL_DRAWING and Drawing or loadstring(readfile("acuze recode/assets/api.lua"))()
+        drawing = _G.FORCE_REAL_DRAWING and Drawing or loadstring(readfile("acuze_v2/assets/api.lua"))()
     end)()
 
     getgenv()["fake_drawing"] = drawing
@@ -683,7 +683,7 @@ do
 
     local logo = drawing_proxy["new"]("Image", {
         ["Color"] = menu["colors"]["accent"],
-        ["Data"] = readfile("acuze recode/assets/logo.png"),
+        ["Data"] = readfile("acuze_v2/assets/logo.png"),
         ["Position"] = udim2_new(0, 15, 0, 15),
         ["Parent"] = inside,
         ["Size"] = udim2_new(0, 35, 0, 35),
@@ -1130,7 +1130,7 @@ do
 
     function menu:load_theme(theme)
         if theme then
-            local path = "acuze recode/themes/"..theme..".th"
+            local path = "acuze_v2/themes/"..theme..".th"
             if isfile(path) then
                 local s, data = pcall(function()
                     return http_service:JSONDecode(readfile(path))
@@ -1639,7 +1639,7 @@ do
 
         if menu["saved"] then
             menu["saved"] = false
-            writefile("acuze recode/data.dat", http_service:JSONEncode({
+            writefile("acuze_v2/data.dat", http_service:JSONEncode({
                 ["notifications"] = do_notifications,
                 ["favorites"] = menu["favorites"],
                 ["theme"] = menu["theme"],
@@ -2464,7 +2464,7 @@ do
                     active["favorited"] = true
                     active["parent"]:add_icon(active["drawings"]["text"]["Text"], star)
 
-                    writefile("acuze recode/data.dat", http_service:JSONEncode({
+                    writefile("acuze_v2/data.dat", http_service:JSONEncode({
                         ["notifications"] = do_notifications,
                         ["favorites"] = menu["favorites"],
                         ["theme"] = menu["theme"],
@@ -2489,7 +2489,7 @@ do
                     active["parent"]:remove_icon(active["drawings"]["text"]["Text"], star)
                     menu["saved"] = true
 
-                    writefile("acuze recode/data.dat", http_service:JSONEncode({
+                    writefile("acuze_v2/data.dat", http_service:JSONEncode({
                         ["notifications"] = do_notifications,
                         ["favorites"] = menu["favorites"],
                         ["theme"] = menu["theme"],
@@ -2592,7 +2592,7 @@ do
 
                     active["parent"]:add_icon(active["drawings"]["text"]["Text"], autoload)
 
-                    writefile("acuze recode/data.dat", http_service:JSONEncode({
+                    writefile("acuze_v2/data.dat", http_service:JSONEncode({
                         ["notifications"] = do_notifications,
                         ["favorites"] = menu["favorites"],
                         ["theme"] = menu["theme"],
@@ -2616,7 +2616,7 @@ do
                     menu["saved"] = true
                     active["parent"]:remove_icon(active["drawings"]["text"]["Text"], autoload)
 
-                    writefile("acuze recode/data.dat", http_service:JSONEncode({
+                    writefile("acuze_v2/data.dat", http_service:JSONEncode({
                         ["notifications"] = do_notifications,
                         ["favorites"] = menu["favorites"],
                         ["theme"] = menu["theme"],
@@ -2804,7 +2804,7 @@ do
         ["Color"] = color3_fromrgb(255, 0, 0),
         ["Transparency"] = 1,
         ["Rounding"] = 4,
-        ["Data"] = readfile("acuze recode/assets/saturation.png"),
+        ["Data"] = readfile("acuze_v2/assets/saturation.png"),
         ["ZIndex"] = 1001,
         ["Visible"] = true,
     })
@@ -4974,7 +4974,7 @@ do
                         new_options[#new_options + 1] = original_options[i]
                     end
 
-                    for _, file in listfiles("acuze recode/custom") do
+                    for _, file in listfiles("acuze_v2/custom") do
                         local extension = file:match("%.([^%.]+)$")
 
                         if extension then
@@ -5007,7 +5007,7 @@ do
                             new_options[#new_options + 1] = original_options[i]
                         end
     
-                        for _, file in listfiles("acuze recode/custom") do
+                        for _, file in listfiles("acuze_v2/custom") do
                             local extension = file:match("%.([^%.]+)$")
     
                             if extension then
@@ -6128,7 +6128,7 @@ do
         menu.get_config_list = function()
             local list = {}
 
-            local files = listfiles("acuze recode/configs/")
+            local files = listfiles("acuze_v2/configs/")
             for _, file in files do
                 if string["match"](file, "%.(.*)") == "cfg" then
                     list[#list+1] = string["sub"](file, 21, #file-4)
@@ -6141,7 +6141,7 @@ do
         menu.get_addon_list = function()
             local list = {}
 
-            local files = listfiles("acuze recode/addons/")
+            local files = listfiles("acuze_v2/addons/")
             for _, file in files do
                 if string["match"](file, "%.(.*)") == "luau" then
                     list[#list+1] = string["sub"](file, 20, #file-5)
@@ -6154,7 +6154,7 @@ do
         menu.get_skins_list = function()
             local list = {}
 
-            local files = listfiles("acuze recode/custom/")
+            local files = listfiles("acuze_v2/custom/")
             for _, file in files do
                 if string["match"](file, "%.(.*)") == "skin" then
                     list[#list+1] = string["sub"](file, 20, #file-5)
@@ -6167,7 +6167,7 @@ do
         menu.get_theme_list = function()
             local list = {}
 
-            local files = listfiles("acuze recode/themes/")
+            local files = listfiles("acuze_v2/themes/")
             for _, file in files do
                 if string["match"](file, "%.(.*)") == "th" then
                     list[#list+1] = string["sub"](file, 20, #file-3)
@@ -6225,7 +6225,7 @@ do
                 end
             end
 
-            writefile("acuze recode/configs/"..name..".cfg", encrypt(http_service:JSONEncode(config), "^^^^^^^^^^^^^^^^^^^^"))
+            writefile("acuze_v2/configs/"..name..".cfg", encrypt(http_service:JSONEncode(config), "^^^^^^^^^^^^^^^^^^^^"))
         end)
 
         menu["get_config_data"] = LPH_JIT(function(data)
@@ -6247,7 +6247,7 @@ do
                 return
             end
 
-            local path = "acuze recode/configs/"..name..".cfg"
+            local path = "acuze_v2/configs/"..name..".cfg"
 
             if isfile(path) then
                 local new_flags = menu["get_config_data"](readfile(path))
@@ -6636,7 +6636,7 @@ do
             end
 
             menu["load_addon"] = function(name)
-                local path = "acuze recode/addons/"..name..".luau"
+                local path = "acuze_v2/addons/"..name..".luau"
 
                 if not isfile(path) then
                     return "file does not exist"
@@ -7596,7 +7596,7 @@ do
             }, {
                 ["button"] = {}
             })["on_clicked"], function()
-                local file = "acuze recode/themes/"..flags["!name"]..".th"
+                local file = "acuze_v2/themes/"..flags["!name"]..".th"
                 local data = {}
 
                 local elements = theme_section["elements"]
