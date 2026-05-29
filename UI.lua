@@ -382,7 +382,7 @@ do
 
     local drawing = Drawing
     LPH_NO_VIRTUALIZE(function()
-        drawing = _G.FORCE_REAL_DRAWING and Drawing or loadstring(readfile("acuze_v2/assets/api.lua"))()
+        drawing = Drawing
     end)()
 
     getgenv()["fake_drawing"] = drawing
